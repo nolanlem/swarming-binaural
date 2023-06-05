@@ -1,5 +1,5 @@
 # swarming-binaural
-Jupyter notebooks for teaching about recreating spatial swarms using HRIR convolution and coupled oscillators dynamics.
+Python code (binaural-swarm-tutorial.py) for teaching about recreating spatial swarms using HRIR convolution and coupled oscillators dynamics.
 
 This tutorial is formatted for spyder code blocks. 
 
