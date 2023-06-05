@@ -7,7 +7,7 @@ import os
 import glob
 import soundfile as sf
 
-os.chdir('/Users/nolanlem/Documents/TEACHING/swarming-binaural/')
+#os.chdir('./') # set correct working directory!
 
 #%% make dir if it doesn't exist
 def makeDir(dirname):
